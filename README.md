@@ -15,5 +15,5 @@ where a.out will be generated as default executable file and then follow the sam
 ```sh
 ./a.out
 ```
-So, play with your molecule, hope you will enjoy!\\
+So, play with your molecule, hope you will enjoy! \\
 Though, it has some limitations. Trying to resolve that issues and update soon in the version 2.O.
