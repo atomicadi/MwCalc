@@ -12,7 +12,7 @@ program molecular_weight_calculator
        mol_len = len_trim(mol_string)
 
        allocate(atom_symbl(110), atom_mass(110))
-       open(unit=10, file= "Pereodic_list.txt")
+       open(unit=10, file= "Periodic_list.txt")
        do i = 1, 110
          read(10, '(a2,6x,F8.3)') atom_symbl(i), atom_mass(i)
        end do
