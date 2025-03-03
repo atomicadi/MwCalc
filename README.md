@@ -1,4 +1,4 @@
-# Molecular_Weight_Calculator (MW_Calc)
+# Molecular_Weight_Calculator (MwCalc)
 In this project (written in Fortran) one can easily calculate the molcular weight (in amu unit) of a given molecular structure by user. Keeping the files (*.f90 and *.txt) in the same folder the calculations can be achived through terminal, just typing the command:
 ```sh
 gfortran -o mol mol_wigt.f90
