@@ -16,4 +16,4 @@ where a.out will be generated as default executable file and then follow the sam
 ./a.out
 ```
 So, play with your molecule, hope you will enjoy! \
-Though, it has some limitations. Trying to resolve that issues and update soon in the version 2.O.
+Though, it has some limitations but trying to resolve that issues and update soon in the version 2.O.
