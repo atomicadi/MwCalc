@@ -1,3 +1,6 @@
+! Aditya Barman, Project Associate, MNIT Jaipur, Rajasthan, India; March 02, 2025 
+! Email: atomicadi2023@gmail.com
+
 program molecular_weight_calculator
        implicit none
        integer :: i, j, mol_len, num_int, mol_num_int 
@@ -314,5 +317,4 @@ program molecular_weight_calculator
 end program molecular_weight_calculator
 
 
-! Written by Aditya; March 02, 2025; MNIT Jaipur, Rajasthan, India
-! Edited by Aditya; March 03, 2025; MNIT Jaipur, Rajasthan, India           
+         
