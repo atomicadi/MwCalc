@@ -315,6 +315,3 @@ program molecular_weight_calculator
     end subroutine str2int
 
 end program molecular_weight_calculator
-
-
-         
