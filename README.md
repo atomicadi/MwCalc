@@ -1,3 +1,4 @@
+# Molecular weight calculation in Fortran
 # MwCalc: Molecular weight calculator in Fortran
 ![photoart collagemaker picgrid edit photoframe_20253404226362](https://github.com/user-attachments/assets/d4cf1097-e8c2-400d-a35e-3861f0bc1a69)
 
