@@ -6,12 +6,12 @@ In this project (written in Fortran), the molecular weight (in amu unit) of a gi
 ```sh
 gfortran -o mol mol_wigt.f90
 ```
- where "mol" will be generated as executable file and by running the executable file through the command:
+ where "**mol**" will be generated as executable file and by running the executable file through the command:
  ```sh
 ./mol
 ```
 one can easily get the result. \
-Also, a default executable file (a.out) will be generated if the executable file name is not mentioned in the command, like:
+Also, a default executable file (**a.out**) will be generated if the executable file name is not mentioned in the command, like:
 ```sh
 gfortran mol_wigt.f90
 ```
